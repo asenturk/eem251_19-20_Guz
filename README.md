@@ -2,7 +2,14 @@
 - Simulasyon: https://www.tinkercad.com 
 - Üye olduktan sonra: https://www.tinkercad.com/learn/circuits/learning
 - https://www.arduino.cc/en/Tutorial/BuiltInExamples   
-- Youtube -> Arduino dersleri, Arduino tutorials, Tinkercad arduino uno dersleri
+- Youtube &rarr; Arduino dersleri, Arduino tutorials, Tinkercad arduino uno dersleri
+
+---
+
+**Notlandırma**
+- Dönem içi %50
+  - Arasınav %100 veya Arasınav %50 + Proje %50 (Arasınavdan sonra 4 hafta içinde)
+- Dönem Sonu %50
 
 ---
 
