@@ -1,4 +1,6 @@
-
+**İçerik**   
+Dönem Başlangıcı - Arasınav: Arduino   
+Arasınav Dönem Sonu: Temel Python Programlama + Linux İşletim Sistemi+ Raspberry Pi GPIO
 
 ---
 
