@@ -15,7 +15,7 @@
 
 **İçerik**   
 Dönem Başlangıcı - Arasınav: Arduino   
-Arasınav Dönem Sonu: Temel Python Programlama + Linux İşletim Sistemi+ Raspberry Pi GPIO
+Arasınav - Dönem Sonu: Temel Python Programlama + Linux İşletim Sistemi+ Raspberry Pi GPIO
 
 ---
 
@@ -29,4 +29,4 @@ Twitter: @asntrk
 
 ## Isparta Uygulamalı Bilimler Üniversitesi   
 ### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü   
-#### 2019-2020 Bahar Dönemi EEM251 İleri Düzey Programla Dersi   
+#### 2019-2020 Güz Dönemi EEM251 İleri Düzey Programla Dersi   
