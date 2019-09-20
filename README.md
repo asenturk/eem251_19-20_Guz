@@ -29,4 +29,4 @@ Twitter: @asntrk
 
 ## Isparta Uygulamalı Bilimler Üniversitesi   
 ### Teknoloji Fakültesi Elektrik Elektronik Mühendisliği Bölümü   
-#### 2018-2019 Bahar Dönemi EEM251 İleri Düzey Programla Dersi   
+#### 2019-2020 Bahar Dönemi EEM251 İleri Düzey Programla Dersi   
