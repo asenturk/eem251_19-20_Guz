@@ -24,6 +24,7 @@ void loop() {
 }
 ```
 
+---
 
 ```c++
 void setup() {
@@ -45,6 +46,7 @@ void loop() {
 }
 ```
 
+---
 
 ```c++
 void setup() {
@@ -64,6 +66,7 @@ void loop() {
 }
 ```
 
+---
 
 ```c++
 void setup() {
@@ -90,6 +93,8 @@ void loop() {
  
 ```
 
+---
+
 ![ornek 1 devre](./images/ders01_2.png)
 
 
@@ -114,6 +119,7 @@ void loop() {
 }
 ```
 
+---
 
 ```c++
 int pinler[]={6,4,7,12};
@@ -136,6 +142,7 @@ void loop() {
 }
 ```
 
+---
 
 ```c++
 int pinler[]={6,4,7,12};
@@ -160,6 +167,7 @@ void loop() {
 }
 ```
 
+---
 
 ```c++
 int pinler[]={6,4,7,12};
@@ -182,6 +190,7 @@ void loop() {
                        
 }
 ```
+---
 
 ![ornek 1 devre](./images/ders01_3.png)
 
@@ -202,6 +211,8 @@ void loop() {
   delay(dly);                      
 }
 ```
+
+---
 
 
 ```c++
@@ -225,6 +236,8 @@ void loop() {
                 
 }
 ```
+
+---
 
 
 ```c++
