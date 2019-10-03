@@ -259,3 +259,25 @@ void loop() {
                 
 }
 ```
+
+---
+
+İki tabanında saymayı göstemek için  7, 4, 1. pinler kullanılmıştır.
+
+```c++
+void setup()
+{
+  pinMode(1, OUTPUT);
+  pinMode(4, OUTPUT);
+  pinMode(7, OUTPUT);
+}
+int i=0;
+void loop()
+{
+  digitalWrite(1, bitRead(i, 0));
+  digitalWrite(4, bitRead(i, 1));
+  digitalWrite(7, bitRead(i, 2));
+  delay(1000); 
+  i++;
+}
+```
