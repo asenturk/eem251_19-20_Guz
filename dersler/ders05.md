@@ -112,7 +112,7 @@ Motorun yönü H köprüsü ile değiştirilebilir.
 ---
 L293D Entegresi ile 2 tane motor sürülebilir. PWM sinyali ile motorların hızları ayarlanabilir ve yönleri de değiştirilebilir.
 
-![ornek devre](./images/ders05_09.png)
+![ornek devre](./images/ders05_09.gif)
 ![ornek devre](./images/ders05_10.png)
 
 ```c++
