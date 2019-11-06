@@ -1,6 +1,6 @@
 **Arasınav Sonuçları ve Kontrol (06.11.2019)**   
 Arasınav notlarına [Arasınav](./arasinav/) klasöründen ulaşabilirsiniz.   
-Sınav kağıtlarını 19.11.2019 Salı son gün olmak üzere kontrol edebilirsiniz.   
+Sınav kağıtlarını 12.11.2019 Salı son gün olmak üzere kontrol edebilirsiniz.   
 
 Sınav kağıdını kontrol için geldiğinizde **Ders Adı -> 1. veya 2. öğretim -> Yoklama Sıra No** bilgilerini söyleyiniz. 
 
