@@ -1,3 +1,39 @@
+**Python Programlama (11.11.2019) ** 
+
+Dersin 2. yarısında python programlama gösterilecektir. 
+
+Python programlama dilinin popülaritesi aşağıdaki sitelerde raporlanmıştır:   
+- https://www.tiobe.com/tiobe-index/
+- http://pypl.github.io/PYPL.html
+
+
+Python programlama için Anaconda dağıtımını kullanılabilir. Aşağıdaki sayfadan bigisayar işlemcisine göre 32-bit veya 64-bit 3.7 versiyonu indirilebilir.   
+https://www.anaconda.com/distribution/
+
+Programı yüklerken aşağıda gösterilen şeçimi yapınız:
+![kurulum](./dersler_python/images/start_path.png)
+
+
+Python programlama için
+
+- idle
+- spyder
+- jupyter
+- vscode
+
+editörleri/IDEleri kullanılabilir.
+
+Ayrıca online programlama editörleri de mevcuttur.
+- https://repl.it/languages/python3
+- https://www.onlinegdb.com/online_python_compiler
+- https://www.tutorialspoint.com/execute_python_online.php
+- https://www.python.org/shell/ (komut satırı)
+- https://pynative.com/online-python-code-editor-to-execute-python-code/
+
+
+
+
+
 **Arasınav Sonuçları ve Kontrol (06.11.2019)**   
 Arasınav notlarına [Arasınav](./arasinav/) klasöründen ulaşabilirsiniz.   
 Sınav kağıtlarını 12.11.2019 Salı son gün olmak üzere kontrol edebilirsiniz.   
