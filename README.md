@@ -1,4 +1,4 @@
-**Python Programlama (11.11.2019) ** 
+**Python Programlama (11.11.2019)** 
 
 Dersin 2. yarısında python programlama gösterilecektir. 
 
@@ -10,7 +10,7 @@ Python programlama dilinin popülaritesi aşağıdaki sitelerde raporlanmıştı
 Python programlama için Anaconda dağıtımını kullanılabilir. Aşağıdaki sayfadan bigisayar işlemcisine göre 32-bit veya 64-bit 3.7 versiyonu indirilebilir.   
 https://www.anaconda.com/distribution/
 
-Programı yüklerken aşağıda gösterilen şeçimi yapınız:
+Programı yüklerken aşağıda gösterilen şeçimi yapınız:   
 ![kurulum](./dersler_python/images/start_path.png)
 
 
