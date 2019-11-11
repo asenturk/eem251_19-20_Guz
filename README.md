@@ -31,7 +31,7 @@ Ayrıca online programlama editörleri de mevcuttur.
 - https://pynative.com/online-python-code-editor-to-execute-python-code/
 
 
-
+---
 
 
 **Arasınav Sonuçları ve Kontrol (06.11.2019)**   
