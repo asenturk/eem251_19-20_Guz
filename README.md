@@ -1,5 +1,5 @@
 **Python ders notları ile ilgili (18.11.2019)**   
-Python ders notları ithuba ipynb (ipython notebook) formatında eklenecektir. Bu notlar bazen gitgithubda gösterilirken problem oluyor.   
+Python ders notları githuba ipynb (ipython notebook) formatında eklenecektir. Bu notlar bazen gitgithubda gösterilirken problem oluyor.   
 Bu durumda aşağıdaki adrestek sayfaya görmek istediğiniz ders notunun adresini kopyala yapıştır yapabilirsiniz. 
 
 https://nbviewer.jupyter.org
