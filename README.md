@@ -1,3 +1,16 @@
+**Python ders notları ile ilgili (18.11.2019)**   
+Python ders notları ithuba ipynb (ipython notebook) formatında eklenecektir. Bu notlar bazen gitgithubda gösterilirken problem oluyor.   
+Bu durumda aşağıdaki adrestek sayfaya görmek istediğiniz ders notunun adresini kopyala yapıştır yapabilirsiniz. 
+
+https://nbviewer.jupyter.org
+
+Örneğin 1. ders için    
+https://github.com/asenturk/eem251/blob/master/dersler_python/ders01.ipynb
+adresini kopyalayıp, yukarıdaki sitede ortadaki kutuya yağıştırdığınızda aşağıdaki gibi bir sayfa açılacaktır.
+https://nbviewer.jupyter.org/github/asenturk/eem251/blob/master/dersler_python/ders01.ipynb 
+
+---
+
 **Proje (11.11.2019)**  
  
 Proje ile ilgili duyuru ve açıklamaya [Proje Açıklama](./proje/proje_aciklama.md) dosyasından ulaşabilirsiniz.
