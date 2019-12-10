@@ -30,7 +30,7 @@ Projede karşılaşılan problemlere özgün çözümleriniz ekstra puan almanı
 Proje başvuruları için son gün 21 Kasım Perşembedir.    
 https://forms.gle/B881kGKAWRxXgRs28
 
-Projelerin anlatıldığı Youtube'a yüklenen videonun linki ve (ino uzantılı) Arduino Program dosyası , en son 12 Aralık Perşembe günü aşağıdaki forma eklenecektir. Dosyanın adini okul numaranız olarak ayarlayınız.
+Projelerin anlatıldığı Youtube'a yüklenen videonun linki ve (ino uzantılı) Arduino Program dosyası , en son **13 Aralık Cuma** günü aşağıdaki forma eklenecektir. Dosyanın adini okul numaranız olarak ayarlayınız.
 https://forms.gle/i9UFa9vE6H828XQy7
 Belirtilen tarihte video ve program dosyasını göndermeyenler  yarışmaya katılamayacaktır.
 
