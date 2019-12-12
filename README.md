@@ -1,3 +1,15 @@
+**Proje tarih güncellemesi ve bilgilendirme  (12.12.2019)**   
+
+Proje yarışması 23 Aralık 2019 Pazartesi tarihine ertelenmiştir. Proje dosyası ve video gönderimi 19 Aralık son gün olarak ertelenmiştir.
+
+Labirentin yol genişliği 35 cm sabit olacaktır Bundan dolayı projelerinizi bu yola uygun hale getirmeniz gerekmektedir.
+
+Projesini tamamlayıp video gönderenlerin sayısına göre değişecek olmakla birlikte, 1. ve 2. öğretimin 1. öğretim saatinde projelerini çalıştırmaları planlanmaktadır. 
+
+Projenizi yarışmadan önce denemeniz ve eksikliklerini gidermeniz sizin açınızda faydalı olacaktır. Deneme yapabilmek için Laboratuvardan  labirent tahtalarını alabilirsiniz.
+
+---
+
 **Python ders notları ile ilgili (18.11.2019)**   
 Python ders notları githuba ipynb (ipython notebook) formatında eklenecektir. Bu notlar bazen gitgithubda gösterilirken problem oluyor.   
 Bu durumda aşağıdaki adrestek sayfaya görmek istediğiniz ders notunun adresini kopyala yapıştır yapabilirsiniz. 
