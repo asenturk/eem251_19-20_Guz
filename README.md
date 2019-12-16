@@ -1,6 +1,6 @@
 **Proje tarih güncellemesi ve bilgilendirme  (12.12.2019)**   
 
-Proje yarışması 23 Aralık 2019 Pazartesi tarihine ertelenmiştir. Proje dosyası ve video gönderimi 19 Aralık son gün olarak ertelenmiştir.
+Proje yarışması 23 Aralık 2019 Pazartesi tarihine ertelenmiştir. Proje dosyası ve video gönderimi 19 Aralık son gün olarak ertelenmiştir. 
 
 Labirentin yol genişliği 35 cm sabit olacaktır Bundan dolayı projelerinizi bu yola uygun hale getirmeniz gerekmektedir.
 
