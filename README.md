@@ -1,3 +1,8 @@
+**Proje değerlendirme ve ek açıklamalar  (18.12.2019)**   
+
+Proje değerlendirme ve proje tarihi ile ilgili açıklamaya [Proje Değerlendirme](./proje/proje_degerlendirme.md) dosyasından ulaşabilirsiniz.
+---
+
 **Proje tarih güncellemesi ve bilgilendirme  (12.12.2019)**   
 
 Proje yarışması 23 Aralık 2019 Pazartesi tarihine ertelenmiştir. Proje dosyası ve video gönderimi 19 Aralık son gün olarak ertelenmiştir. 
