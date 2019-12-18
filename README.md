@@ -1,6 +1,7 @@
 **Proje değerlendirme ve ek açıklamalar  (18.12.2019)**   
 
 Proje değerlendirme ve proje tarihi ile ilgili açıklamaya [Proje Değerlendirme](./proje/proje_degerlendirme.md) dosyasından ulaşabilirsiniz.
+
 ---
 
 **Proje tarih güncellemesi ve bilgilendirme  (12.12.2019)**   
