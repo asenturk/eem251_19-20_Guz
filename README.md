@@ -1,3 +1,8 @@
+**İşyeri Eğitiminde olanların projeleri (26.12.2019)**   
+
+İşyeri eğitiminde olup proje yapanlar 02.01.2020 Perşembe saat 15:00'da projelerini sunacaklardır. 
+
+
 **Proje değerlendirme ve ek açıklamalar  (18.12.2019)**   
 
 Proje değerlendirme ve proje tarihi ile ilgili açıklamaya [Proje Değerlendirme](./proje/proje_degerlendirme.md) dosyasından ulaşabilirsiniz.
