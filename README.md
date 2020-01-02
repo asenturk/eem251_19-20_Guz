@@ -1,6 +1,12 @@
 **İşyeri Eğitiminde olanların projeleri (26.12.2019)**   
 
-İşyeri eğitiminde olup proje yapanlar 02.01.2020 Perşembe saat 15:00'da projelerini sunacaklardır. 
+İşyeri eğitiminde olup proje yapanlar 02.01.2020 Perşembe saat 15:00'da projelerini sunacaklardır.
+
+**Güncelleme (02.01.2020)**   
+Sunumlarda yarım saate kadar gecikme olabilir. Bu gecikme esnasında labirent malzemelerini laboratuvardan alıp     https://twitter.com/asntrk/status/1204720558086250496    
+kurun lütfen.   
+https://twitter.com/asntrk/status/1204306169348722688
+
 
 
 ---
