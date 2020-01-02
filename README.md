@@ -1,3 +1,14 @@
+**Final Sınavı(02.01.2020)**   
+
+Final sınavında 9 tane soru olması planlanmıştır. Final sınavı arasınav sonrası anlatılan konuları büyük oranda kapsayacak şekilde hazırlanmıştır. Sorular zor olmamakla birlikte cevaplayabilmek için anlatılan konuların mantığının anlaşılması gerekmektedir. 
+
+03.01.2020 tarihinde sınav kağıdı nihai halini aldığında başka açıklamalar eklenebilir.
+
+İyi çalışmalar, başarılar.
+
+
+---
+
 **İşyeri Eğitiminde olanların projeleri (26.12.2019)**   
 
 İşyeri eğitiminde olup proje yapanlar 02.01.2020 Perşembe saat 15:00'da projelerini sunacaklardır.
