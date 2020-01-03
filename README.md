@@ -1,4 +1,21 @@
-**Final Sınavı(02.01.2020)**   
+**Final sınavı duyuru 2 (03.01.2020)**   
+Final sınavına hangi sınıfta gireceğinize   
+[Final Sınıf Listesi](./final_sinavi/sinif_listeler.txt)   
+dosyasından bakabilirsiniz. Sınav öncesi karmaşa olmaması için lütfen sınav salonunuzu önceden tespit ediniz.
+
+Sınavda 9 soru bulunmaktadır. Sınav kağıdınızın her iki yönünde de sorular vardır. Basım hatası için kontrol ediniz.
+
+Sınav kağıdına yoklama sıra numaranızı yazınız. Yoklama sıra numaranıza [Final Sınıf Listesi](./final_sinavi/sinif_listeler.txt) dosyasından ve sınav esnasında gelecek olan yoklama listesinden bakabilirsiniz.
+
+Sınav 55 dakika sürecektir.
+
+Yoklama listesinde adı olmayan sınav salonundan çıkartılacaktır. Bundan dolayı mağduriyet oluşmaması için lütfen [Final Sınıf Listesi](./final_sinavi/sinif_listeler.txt)nde verilen bilgilere göre hareket ediniz.
+
+Başarılar dilerim.
+
+---
+
+**Final Sınavı (02.01.2020)**   
 
 Final sınavında 9 tane soru olması planlanmıştır. Final sınavı arasınav sonrası anlatılan konuları büyük oranda kapsayacak şekilde hazırlanmıştır. Sorular zor olmamakla birlikte cevaplayabilmek için anlatılan konuların mantığının anlaşılması gerekmektedir. 
 
