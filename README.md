@@ -11,6 +11,8 @@ Sınav 55 dakika sürecektir.
 
 Yoklama listesinde adı olmayan sınav salonundan çıkartılacaktır. Bundan dolayı mağduriyet oluşmaması için lütfen [Final Sınıf Listesi](./final_sinavi/sinif_listeler.txt)nde verilen bilgilere göre hareket ediniz.
 
+Sınafta karışık oturabilirsiniz.
+
 Başarılar dilerim.
 
 ---
