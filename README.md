@@ -1,3 +1,16 @@
+**Final sınavı başarı puanları(05.01.2020)**   
+Başarı puanlarına [Final Sınavı](./final_sinavi/) klasöründen ulaşabilirsiniz.   
+
+Sınav kağıtlarını 08.01.2020 çarşamba son gün olmak üzere kontrol edebilirsiniz.   
+
+Sınav kağıdını kontrol için geldiğinizde **Ders Adı -> 1. veya 2. öğretim -> Yoklama Sıra No** bilgilerini söyleyiniz. 
+
+*Yoklama sıra nosuna* notunuzu öğrendiğiniz dosyadan bakabilirsiniz.  
+
+Kontrol için süre en fazla 10 dakikadır. Aynı anda birden fazla kişi kağıdını kontrol edemez. Dolayısıyla ofiste birileri var ise çıkmasını beklemeniz gerekiyor.
+
+---
+
 **Final sınavı duyuru 2 (03.01.2020)**   
 Final sınavına hangi sınıfta gireceğinize   
 [Final Sınıf Listesi](./final_sinavi/sinif_listeler.txt)   
