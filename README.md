@@ -1,3 +1,12 @@
+**Devamsızlıktan kalanlar (09.01.2020)**   
+Devamsızlıktan kalanlar dolayısıyla bütünleme sınavına giremeyecek olanlar:   
+[Liste](./devamsizlik/ileri_duzey_1o_2o_devamsizlik.txt)
+
+Bu listede yanlışlık olduğunu düşünüyorsanız en geç 13.01.2020 Pazartesi olmak üzere iletişime geçiniz.
+
+
+---
+
 **Final sınavı başarı puanları(05.01.2020)**   
 Başarı puanlarına [Final Sınavı](./final_sinavi/) klasöründen ulaşabilirsiniz.   
 
