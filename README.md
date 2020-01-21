@@ -1,3 +1,11 @@
+**Bütünleme Sınavı Duyurusu (21.01.2020)**   
+Bütünleme sınavında büyük ihtimalle 7 soru bulunacaktır.      
+Tarz olarak final sınavına benzer sorular bekleyiniz.   
+Özellikle raspi gpio, sözlük, liste, string, ascii kodları, fonksiyonlar, grafik çizdirme, karmaşık sayılar konularını çalışmanızı tavsiye ediyorum.
+Sınav kağıdı son halini aldığında tekrar açıklama yapılacaktır.
+
+---
+
 **Devamsızlıktan kalanlar (09.01.2020)**   
 Devamsızlıktan kalanlar dolayısıyla bütünleme sınavına giremeyecek olanlar:   
 [Liste](./devamsizlik/ileri_duzey_1o_2o_devamsizlik.txt)
