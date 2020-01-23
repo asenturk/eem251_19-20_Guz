@@ -1,3 +1,28 @@
+**Bütünleme Sınavı Duyurusu 2 (23.01.2020)**   
+
+Sınava gireceğiniz sınıflar için tıklayınız. [Liste](./butunleme/sinif_listeler.txt)
+
+2\. öğretim tek sınıfta girecek ama 1. öğretimindekilerin  sınıflarını sınavdan önce muhakkak öğrenmesi faydalı olacaktır. ([Liste](./butunleme/sinif_listeler.txt))
+
+Sınav kağıdına yoklama sıra numaranızı yazmanız gerekmektedir. Sınıfta yoklama sırasına göre oturmak zorunda değilsiniz. Yoklama sıranıza sınav esnasında gelen yoklama listesinden veya [Liste](./butunleme/sinif_listeler.txt)'den bakabilirsiniz.
+
+Bütünleme sınavında 6 soru vardır. Süre 50 dakika, 105 puan üzerindendir. Sınav kağıdının her iki yüzünde de soru var. Sınav kağıdını aldığınızda basım hatası için lütfen kontrol edin.
+
+Tarz olarak final sınavına benzer sorulardan oluşmaktadır.
+ 
+Özellikle raspi gpio, sözlük, liste, string, ascii kodları, fonksiyonlar, grafik çizdirme, karmaşık sayılar konularına çalışabilirsiniz.
+
+Kütüphaneleri eklenmiş sorular da bulunmaktadır. Bu sorulara başka kütüphane eklememeniz gerektiği sorularda ifade edilmiştir. 
+
+Gelecek hafta izinli olacağım. Bununla birlikte bir günün belirli saatlerinde  okula gelmeyi düşünüyorum. Bu vakti duyuracağım. Dolayısıyla sınav kağıtlarını kontrol etmek isteyenlerin bu süre içinde gelip kağıtlarını kontrol etmeleri gerekecek.
+
+Başarılar.
+
+
+
+
+---
+
 **Bütünleme Sınavı Duyurusu (21.01.2020)**   
 Bütünleme sınavında büyük ihtimalle 7 soru bulunacaktır.      
 Tarz olarak final sınavına benzer sorular bekleyiniz.   
