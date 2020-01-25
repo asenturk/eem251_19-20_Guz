@@ -1,3 +1,10 @@
+**Bütünleme Sınavı Sonuçları (25.01.2020)**   
+Notlarınıza [Bütünleme](./butunleme/) klasöründen ulaşabilirsiniz.   
+
+28.01.2020 14:00-17:00 arasında sınav kağıtlarınızı kontrol edebilmeniz için ofisimde olmayı planlıyorum. Aksi bir durum olursa duyurulacaktır.
+
+---
+
 **Bütünleme Sınavı Duyurusu 2 (23.01.2020)**   
 
 Sınava gireceğiniz sınıflar için tıklayınız. [Liste](./butunleme/sinif_listeler.txt)
